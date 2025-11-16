@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{463857F9-60AD-4BD7-A855-E4264006D938}") = "FluxSerials", "FluxSerials\FluxSerials.csproj", "{44949EA1-EABE-4133-82FA-35852E5FFFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44949EA1-EABE-4133-82FA-35852E5FFFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44949EA1-EABE-4133-82FA-35852E5FFFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44949EA1-EABE-4133-82FA-35852E5FFFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44949EA1-EABE-4133-82FA-35852E5FFFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
